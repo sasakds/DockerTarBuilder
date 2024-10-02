@@ -7,8 +7,10 @@
 
 ## 使用说明
 https://wkdaily.cpolar.cn/archives/gc
-## 教学视频
-https://www.bilibili.com/video/BV1EZ421M7mL
+
+## 在哪里可以搜索或查询docker镜像的详细信息
+### [查询镜像的详细信息 点击这里直达](https://docker.fxxk.dedyn.io/)
+
 ## 解压工具
 > Windows 上推荐使用7zip<br>
 > macOS 推荐使用MacZip<br>
@@ -16,5 +18,4 @@ https://www.bilibili.com/video/BV1EZ421M7mL
 
 ## 相关项目
 https://github.com/wukongdaily/OrangePiShell
-## 在哪里可以搜索或查询docker镜像的详细信息
-### [查询镜像的详细信息 点击这里直达](https://docker.fxxk.dedyn.io/)
+
