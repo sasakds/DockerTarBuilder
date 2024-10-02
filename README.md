@@ -9,9 +9,10 @@
 https://wkdaily.cpolar.cn/archives/gc
 
 下载好的.tar文件上传到docker目录下
-打开ssh：cd /mnt/nvme0n1-4/
-        ls
-        docker load -i xxx.tar   (xxx)表示为文件名
+打开ssh：
+cd /mnt/nvme0n1-4/
+ls
+docker load -i xxx.tar   (xxx)表示为文件名
 
 ## 在哪里可以搜索或查询docker镜像的详细信息
 ### [查询镜像的详细信息 点击这里直达](https://docker.fxxk.dedyn.io/)
