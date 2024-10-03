@@ -8,11 +8,20 @@
 ## 使用说明
 https://wkdaily.cpolar.cn/archives/gc
 
-下载好的.tar文件上传到docker目录下
+下载好的.tar文件上传到docker目录下（示例将文件上传至mnt/nvme0n1-4/xxx.tar）xxx表示为文件名
+
 打开ssh：
+```
 cd /mnt/nvme0n1-4/
+```
+```  
 ls
-docker load -i xxx.tar   (xxx)表示为文件名
+```
+```
+docker load -i xxx.tar
+```
+
+此时镜像文就导入到docker中了
 
 ## 在哪里可以搜索或查询docker镜像的详细信息
 ### [查询镜像的详细信息 点击这里直达](https://docker.fxxk.dedyn.io/)
