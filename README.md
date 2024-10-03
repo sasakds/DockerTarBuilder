@@ -63,7 +63,6 @@ docker run -d \
   --restart unless-stopped \
   --name openwrt \
   -v "/tmp/upload:/openwrt/shells/data" \
-  -e PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/android-sdk/platform-tools \
   duqn/openwrt:latest
 ```
 注意此命令中的端口为示例
